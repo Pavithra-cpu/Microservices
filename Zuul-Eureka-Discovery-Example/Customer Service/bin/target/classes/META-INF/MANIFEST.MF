@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Customer Service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: conta
+Implementation-Vendor-Id: com.frugalis
+Build-Jdk: 1.8.0_251
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/customer-service
+Created-By: Maven Integration for Eclipse
+
